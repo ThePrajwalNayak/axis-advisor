@@ -2,6 +2,42 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
+## Introducation
+  A great website design can be a powerful tool for establishing a brand. In the hotel business, a website gives the chance to present the services and atmosphere that is being offered to the target group. This collection demonstrates how hotel websites can incorporate beautiful design and target their audience in the right way
+  
+## Screen Shots
+
+### Landing Page
+![](./images/ScreenShots/Landing%20Page.png)
+
+---
+
+### Our Team
+![](./images/ScreenShots/Our%20Team.png)
+
+---
+
+### Our Client
+![](./images/ScreenShots/Our%20Client.png)
+
+
+## Features
+Hotel management can show case hotel Interior design, Introduce their chefs and communicate effectively with customers using news letters option.
+
+## Getting Started
+
+git clone https://github.com/ThePrajwalNayak/AxisAdvisor.git
+
+cd AxisAdvisor
+
+npm install
+
+ng serve --open
+
+## Technology
+
+Angular, HTML5, CSS3, Bootstrap, SCSS
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
