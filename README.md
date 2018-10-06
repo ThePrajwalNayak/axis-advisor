@@ -60,6 +60,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ### ghPages
 ng build --prod --output-path AxisAdvisor --base-href https://theprajwalnayak.github.io/AxisAdvisor/
+
 ngh --dir=dist/AxisAdvisor
 
 
