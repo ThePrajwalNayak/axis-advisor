@@ -8,17 +8,17 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Screen Shots
 
 ### Landing Page
-![](./images/ScreenShots/Landing%20Page.png)
+![](./ScreenShots/Landing%20Page.png)
 
 ---
 
 ### Our Team
-![](./images/ScreenShots/Our%20Team.png)
+![](./ScreenShots/Our%20Team.png)
 
 ---
 
 ### Our Client
-![](./images/ScreenShots/Our%20Client.png)
+![](./ScreenShots/Our%20Client.png)
 
 
 ## Features
