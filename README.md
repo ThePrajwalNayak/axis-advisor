@@ -1,9 +1,11 @@
 # AxisAdvisor
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+Bank financial advisors assist their clients in determining how to best manage their money through short- and long-term investment planning. They often work with individual, financial or corporate clients as employees of a bank or other financial institution.
+
 
 ## Introducation
-  A great website design can be a powerful tool for establishing a brand. In the hotel business, a website gives the chance to present the services and atmosphere that is being offered to the target group. This collection demonstrates how hotel websites can incorporate beautiful design and target their audience in the right way
+
+For entrepreneurs, managing the financial needs of a business is as important and complex as managing your personal wealth. To service all your business banking needs, AxisAdvisor provide a dedicated Business Banking Advisor.
   
 ## Screen Shots
 
@@ -22,7 +24,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 
 ## Features
-Hotel management can show case hotel Interior design, Introduce their chefs and communicate effectively with customers using news letters option.
+Investor needs answer Questionnaire before Investing to find Risk Appetite. Once Risk is analysed Investor can take advisor assistance or Invest directly.
+
+Can view Advisor profile before choosing one
+
+Simulate wealth graph using parameters like age, income, risk 
 
 ## Getting Started
 
