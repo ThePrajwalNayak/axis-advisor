@@ -1,6 +1,6 @@
 # AxisAdvisor
 
-Demo -  https://theprajwalnayak.github.io/AxisAdvisor/
+Demo -  https://theprajwalnayak.github.io/Webapp-AxisAdvisor/
 
 Bank financial advisors assist their clients in determining how to best manage their money through short- and long-term investment planning. They often work with individual, financial or corporate clients as employees of a bank or other financial institution.
 
@@ -34,9 +34,9 @@ Simulate wealth graph using parameters like age, income, risk
 
 ## Getting Started
 
-git clone https://github.com/ThePrajwalNayak/AxisAdvisor.git
+git clone https://github.com/ThePrajwalNayak/Webapp-AxisAdvisor.git
 
-cd AxisAdvisor
+cd Webapp-AxisAdvisor
 
 npm install
 
@@ -59,9 +59,9 @@ Run `ng generate component component-name` to generate a new component. You can 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
 ### ghPages
-ng build --prod --output-path AxisAdvisor --base-href https://theprajwalnayak.github.io/AxisAdvisor/
+ng build --prod --output-path Webapp-AxisAdvisor --base-href https://theprajwalnayak.github.io/Webapp-AxisAdvisor/
 
-ngh --dir=dist/AxisAdvisor
+ngh --dir=dist/Webapp-AxisAdvisor
 
 
 ## Running unit tests
