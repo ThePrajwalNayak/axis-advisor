@@ -62,7 +62,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 https://medium.com/code-sketch/how-to-deploy-an-angular-7-app-to-github-pages-9427b609645f
 
-ng build --prod --output-path Webapp-AxisAdvisor --base-href https://theprajwalnayak.github.io/Webapp-AxisAdvisor/
+ng build --prod --base-href https://theprajwalnayak.github.io/axis-advisor/
 
 ngh --dir=dist/Webapp-AxisAdvisor
 
